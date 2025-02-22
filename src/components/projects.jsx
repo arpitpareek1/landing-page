@@ -1,7 +1,9 @@
 import React from "react";
+import {useNavigate} from "react-router-dom"
 import "./projects.css"; // Import the custom CSS below or place it in your global stylesheet
 
 export const Projects = (props) => {
+  const history = useNavigate()
   return (
     <div id="Projects">
       <div className="container">
@@ -11,7 +13,9 @@ export const Projects = (props) => {
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div className="col-md-4 col-sm-6 col-xs-12">
+                <div className="col-md-4 col-sm-6 col-xs-12" onClick={()=>{
+                  history('project-info')
+                }}>
                   <div className="portfolio-card">
                     <div className="card-img">
                       <img src={d.img} alt={d.heaading} />

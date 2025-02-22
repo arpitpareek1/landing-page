@@ -11,6 +11,8 @@ import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
 import { Projects } from "./components/projects";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import  ProjectPage  from "./components/portfolio";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -23,9 +25,9 @@ const App = () => {
     setLandingPageData(JsonData);
   }, []);
 
-  return (
+  const Home = () => (
     <div>
-      <Navigation />
+    
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
@@ -36,6 +38,16 @@ const App = () => {
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>
+  );
+
+  return (
+    <Router>
+        <Navigation />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/project-info" element={<ProjectPage/>} />
+      </Routes>
+    </Router>
   );
 };
 
