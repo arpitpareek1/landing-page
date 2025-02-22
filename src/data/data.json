@@ -1,184 +1,252 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "SERVI-FI TECH: AI SOLUTIONS",
+    "paragraph": "Harnessing advanced AI, machine learning, and deep learning to revolutionize digital experiences and drive business growth."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At SERVI-FI TECH, we are an AI-first company dedicated to transforming digital landscapes with innovative artificial intelligence solutions. Our expertise spans AI-driven web and mobile development, intelligent chatbot design, advanced machine learning algorithms, and data analytics, empowering businesses to achieve operational excellence and superior customer engagement.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Pioneering AI innovations across industries",
+      "Custom AI strategies tailored to your business",
+      "Seamless integration of machine learning and data insights",
+      "Scalable and future-proof AI solutions"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Advanced deep learning techniques",
+      "Expert AI research and development",
+      "Collaborative approach to digital transformation",
+      "Transparent and reliable AI support"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Rotary International QR Solution",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Zanzar NFC Integration",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "N2IT Venue Marketing Platform",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "AI Agent Live Video Support",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Kailasa AI - Personalized Guidance",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "George AI - Insurance Chatbot",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Service Checkmate - Security & Facility Management",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Deep Research Agent - Data Intelligence",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Government Assist - Streamlined Operations",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-code",
+      "name": "Web Development",
+      "text": "Developing AI-optimized, responsive websites that integrate intelligent features for personalized user experiences."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile",
+      "name": "Mobile App Development",
+      "text": "Creating AI-enhanced mobile apps for iOS and Android that deliver intuitive user interactions and smart functionalities."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-terminal",
+      "name": "AI Agent Development",
+      "text": "Designing robust AI agents leveraging NLP, deep learning, and machine learning for real-time communication and automated support."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-comments",
+      "name": "Chatbot Solutions",
+      "text": "Deploying AI-powered chatbots that provide instant, intelligent customer interactions and drive engagement."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-credit-card",
+      "name": "NFC & RFID Integration",
+      "text": "Integrating smart NFC and RFID technologies with AI-driven analytics for secure transactions and actionable insights."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-line-chart",
+      "name": "Data Insights & Analytics",
+      "text": "Utilizing advanced machine learning algorithms to transform complex data into strategic business intelligence."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "SERVI-FI TECH transformed our digital presence with their AI-driven solutions.",
+      "name": "Emily R."
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Our operational efficiency soared after integrating their custom AI solutions. Highly recommend their expertise.",
+      "name": "Michael S."
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Their AI-first approach provided us with invaluable insights and a competitive edge in our market.",
+      "name": "Sophia L."
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "The team's dedication to AI innovation resulted in a seamless project delivery that exceeded our expectations.",
+      "name": "David K."
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Innovative, reliable, and forward-thinking – SERVI-FI TECH is our go-to partner for AI solutions.",
+      "name": "Olivia M."
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Their collaborative approach and deep expertise in AI truly set them apart in the industry.",
+      "name": "James P."
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "John Smith",
+      "job": "Chief Executive Officer"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Alice Johnson",
+      "job": "Chief Technology Officer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Robert Brown",
+      "job": "Lead AI Engineer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Laura Davis",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "4321 Innovation Blvd, Silicon Valley, CA 94043",
+    "phone": "+1 800 123 4567",
+    "email": "contact@servifitech.com",
+    "facebook": "facebook.com/servifitech",
+    "twitter": "twitter.com/servifitech",
+    "youtube": "youtube.com/servifitech"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cogs",
+      "title": "Cutting-Edge AI Technology",
+      "text": "Leveraging the latest in artificial intelligence, machine learning, and deep learning frameworks to deliver groundbreaking solutions."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lightbulb-o",
+      "title": "Custom AI Solutions",
+      "text": "Tailored AI strategies designed to meet your unique business challenges with precision and innovation."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Expert AI Team",
+      "text": "A dedicated team of seasoned AI specialists committed to driving digital transformation and innovation."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-line-chart",
+      "title": "Proven ROI",
+      "text": "Our AI-driven solutions deliver measurable results and significant return on investment through smart automation and data insights."
+    }
+  ],
+  "projects": [
+    {
+      "img": "img/team/04.jpg",
+      "heading": " AI Solution for Dementia Patients",
+      "subHeading": "Artificial Intelligence",
+      "points": [
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication"
+      ]
+    },
+    {
+      "img": "img/team/04.jpg",
+      "heading": " AI Solution for Dementia Patients",
+      "subHeading": "Artificial Intelligence",
+      "points": [
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication"
+      ]
+    },
+    {
+      "img": "img/team/04.jpg",
+      "heading": " AI Solution for Dementia Patients",
+      "subHeading": "Artificial Intelligence",
+      "points": [
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication"
+      ]
+    },
+    {
+      "img": "img/team/04.jpg",
+      "heading": " AI Solution for Dementia Patients",
+      "subHeading": "Artificial Intelligence",
+      "points": [
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication"
+      ]
+    },
+    {
+      "img": "img/team/04.jpg",
+      "heading": " AI Solution for Dementia Patients",
+      "subHeading": "Artificial Intelligence",
+      "points": [
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication"
+      ]
+    },
+    {
+      "img": "img/team/04.jpg",
+      "heading": " AI Solution for Dementia Patients",
+      "subHeading": "Artificial Intelligence",
+      "points": [
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication",
+        "Daily reminders for quizzes and medication"
+      ]
     }
   ]
 }

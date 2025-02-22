@@ -404,6 +404,12 @@ header .intro-text {
   padding: 100px 0;
   background: #f6f6f6;
 }
+
+#projects {
+  padding: 100px 0;
+  background: #fffefe;
+}
+
 #testimonials i {
   color: #e6e6e6;
   font-size: 32px;
@@ -442,6 +448,7 @@ header .intro-text {
 /* Team Section */
 #team {
   padding: 100px 0;
+  background-color: #f6f6f6;
 }
 #team h4 {
   margin: 5px 0;
