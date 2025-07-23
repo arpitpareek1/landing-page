@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            SERVI-FI TECH
+            Tvara TECH
           </a>{" "}
         </div>
         {!window.location.href.includes("project-info") ? (
@@ -50,11 +50,6 @@ export const Navigation = (props) => {
               <li>
                 <a href="#Projects" className="page-scroll">
                   Projects
-                </a>
-              </li>
-              <li>
-                <a href="#team" className="page-scroll">
-                  Team
                 </a>
               </li>
               <li>

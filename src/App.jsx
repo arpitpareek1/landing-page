@@ -5,13 +5,14 @@ import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Testimonials } from "./components/testimonials";
-import { Team } from "./components/Team";
+// import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
+// import { Gallery } from "./components/gallery";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
 import { Projects } from "./components/projects";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import  ProjectPage  from "./components/portfolio";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -27,7 +28,6 @@ const App = () => {
 
   const Home = () => (
     <div>
-    
       <Header data={landingPageData.Header} />
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
@@ -35,7 +35,7 @@ const App = () => {
       {/* <Gallery data={landingPageData.Gallery} /> */}
       <Testimonials data={landingPageData.Testimonials} />
       <Projects data={landingPageData.projects} />
-      <Team data={landingPageData.Team} />
+      {/* <Team data={landingPageData.Team} /> */}
       <Contact data={landingPageData.Contact} />
     </div>
   );

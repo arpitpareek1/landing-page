@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "SERVI-FI TECH: AI SOLUTIONS",
+    "title": "Tvara TECH: AI SOLUTIONS",
     "paragraph": "Harnessing advanced AI, machine learning, and deep learning to revolutionize digital experiences and drive business growth."
   },
   "About": {
-    "paragraph": "At SERVI-FI TECH, we are an AI-first company dedicated to transforming digital landscapes with innovative artificial intelligence solutions. Our expertise spans AI-driven web and mobile development, intelligent chatbot design, advanced machine learning algorithms, and data analytics, empowering businesses to achieve operational excellence and superior customer engagement.",
+    "paragraph": "At Tvara TECH, we are an AI-first company dedicated to transforming digital landscapes with innovative artificial intelligence solutions. Our expertise spans AI-driven web and mobile development, intelligent chatbot design, advanced machine learning algorithms, and data analytics, empowering businesses to achieve operational excellence and superior customer engagement.",
     "Why": [
       "Pioneering AI innovations across industries",
       "Custom AI strategies tailored to your business",
@@ -19,6 +19,30 @@
     ]
   },
   "Gallery": [
+    {
+      "title": "Avatar-Based AI Chatbot",
+      "largeImage": "img/portfolio/avatar-chatbot-large.jpg",
+      "smallImage": "img/portfolio/avatar-chatbot-small.jpg",
+      "description": "An innovative virtual assistant with realistic 3D/2D avatar interactions, real-time speech synthesis, and natural language understanding.",
+      "features": [
+        "3D & 2D Animated Avatars with realistic expressions",
+        "Real-time speech synthesis and lip-syncing",
+        "Natural language understanding and processing",
+        "Customizable personality and responses"
+      ]
+    },
+    {
+      "title": "Ruvena Holidays - Travel Booking Platform",
+      "largeImage": "img/portfolio/ruvena-holidays-large.jpg",
+      "smallImage": "img/portfolio/ruvena-holidays-small.jpg",
+      "description": "A comprehensive travel booking platform with real-time availability, secure payments, and personalized recommendations.",
+      "features": [
+        "User-friendly interface with advanced search",
+        "Secure payment gateway integration",
+        "Real-time booking management",
+        "Customer review and support system"
+      ]
+    },
     {
       "title": "Rotary International QR Solution",
       "largeImage": "img/portfolio/01-large.jpg",
@@ -67,66 +91,119 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-code",
-      "name": "Web Development",
-      "text": "Developing AI-optimized, responsive websites that integrate intelligent features for personalized user experiences."
-    },
-    {
-      "icon": "fa fa-mobile",
-      "name": "Mobile App Development",
-      "text": "Creating AI-enhanced mobile apps for iOS and Android that deliver intuitive user interactions and smart functionalities."
-    },
-    {
-      "icon": "fa fa-terminal",
-      "name": "AI Agent Development",
-      "text": "Designing robust AI agents leveraging NLP, deep learning, and machine learning for real-time communication and automated support."
-    },
-    {
       "icon": "fa fa-comments",
-      "name": "Chatbot Solutions",
-      "text": "Deploying AI-powered chatbots that provide instant, intelligent customer interactions and drive engagement."
+      "name": "ChatGPT / OpenAI Integrations",
+      "text": "Seamlessly integrate advanced AI capabilities into your applications with our expert OpenAI and ChatGPT integration services."
     },
     {
-      "icon": "fa fa-credit-card",
-      "name": "NFC & RFID Integration",
-      "text": "Integrating smart NFC and RFID technologies with AI-driven analytics for secure transactions and actionable insights."
+      "icon": "fa fa-comments-o",
+      "name": "Google DialogFlow",
+      "text": "Build intelligent conversational interfaces with our DialogFlow implementation services for natural language understanding."
+    },
+    {
+      "icon": "fa fa-cubes",
+      "name": "Llama2 & Gemini",
+      "text": "Leverage cutting-edge AI models like Llama2 and Gemini for advanced natural language processing and generation."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Reinforcement Learning",
+      "text": "Implement reinforcement learning algorithms to create AI systems that learn and improve through interaction."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Natural Language Processing",
+      "text": "Transform unstructured text into valuable insights with our advanced NLP solutions for sentiment analysis, text classification, and more."
+    },
+    {
+      "icon": "fa fa-sitemap",
+      "name": "Algorithm Design & Optimization",
+      "text": "Custom algorithm development and optimization to solve complex business challenges with maximum efficiency."
     },
     {
       "icon": "fa fa-line-chart",
-      "name": "Data Insights & Analytics",
-      "text": "Utilizing advanced machine learning algorithms to transform complex data into strategic business intelligence."
+      "name": "Machine Learning",
+      "text": "Build intelligent systems that learn from data and improve over time with our machine learning expertise."
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "Security & Privacy",
+      "text": "Ensure your AI systems are secure, private, and compliant with industry standards and regulations."
+    },
+    {
+      "icon": "fa fa-arrows-alt",
+      "name": "Scalability & Performance",
+      "text": "Design and implement AI solutions that scale with your business needs and deliver optimal performance."
+    }
+  ],
+  "Clients": [
+    {
+      "name": "Adobe",
+      "logo": "img/clients/adobe.png"
+    },
+    {
+      "name": "Google",
+      "logo": "img/clients/google.png"
+    },
+    {
+      "name": "AWS",
+      "logo": "img/clients/aws.png"
+    },
+    {
+      "name": "Jumbo",
+      "logo": "img/clients/jumbo.png"
+    },
+    {
+      "name": "Rotary",
+      "logo": "img/clients/rotary.png"
+    },
+    {
+      "name": "CF",
+      "logo": "img/clients/cf.png"
+    },
+    {
+      "name": "Ruvena Holidays",
+      "logo": "img/clients/ruvena-holidays.png"
+    },
+    {
+      "name": "Kajaria",
+      "logo": "img/clients/kajaria.png"
+    },
+    {
+      "name": "JK Lakshmi Cement",
+      "logo": "img/clients/jk-lakshmi.png"
+    },
+    {
+      "name": "TATA Motors",
+      "logo": "img/clients/tata-motors.png"
+    },
+    {
+      "name": "Hyundai",
+      "logo": "img/clients/hyundai.png"
+    },
+    {
+      "name": "Sasta Safar",
+      "logo": "img/clients/sasta-safar.png"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "SERVI-FI TECH transformed our digital presence with their AI-driven solutions.",
-      "name": "Emily R."
+      "text": "Tvara TECH's innovative AI solutions have been instrumental in transforming our digital engagement strategies. Their expertise in AI and machine learning has helped us deliver exceptional value to our members.",
+      "name": "Stephanie Urchick",
+      "title": "President, Rotary International"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "Our operational efficiency soared after integrating their custom AI solutions. Highly recommend their expertise.",
-      "name": "Michael S."
+      "text": "Working with Tvara TECH has been a game-changer for our AI initiatives. Their deep understanding of AI technologies and commitment to excellence is unmatched in the industry.",
+      "name": "Sarah Chen",
+      "title": "AI Solutions Lead, Google"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "Their AI-first approach provided us with invaluable insights and a competitive edge in our market.",
-      "name": "Sophia L."
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "The team's dedication to AI innovation resulted in a seamless project delivery that exceeded our expectations.",
-      "name": "David K."
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "Innovative, reliable, and forward-thinking – SERVI-FI TECH is our go-to partner for AI solutions.",
-      "name": "Olivia M."
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "Their collaborative approach and deep expertise in AI truly set them apart in the industry.",
-      "name": "James P."
+      "text": "The AI solutions provided by Tvara TECH have significantly enhanced our product capabilities. Their team's expertise and innovative approach have been invaluable to our success.",
+      "name": "Raj Patel",
+      "title": "Director of Product, Adobe"
     }
   ],
   "Team": [
@@ -181,71 +258,93 @@
       "text": "Our AI-driven solutions deliver measurable results and significant return on investment through smart automation and data insights."
     }
   ],
+  "Process": [
+    {
+      "step": "1",
+      "title": "Strategy",
+      "description": "Analyze the client's business problem and objectives. Identify relevant data success for the AI model. Define measurement metrics and create a client-centric roadmap."
+    },
+    {
+      "step": "2",
+      "title": "Design",
+      "description": "To design the AI solution, we select algorithms and models, define data architecture and infrastructure, design the user interface and user experience, and create a proof of concept or prototype."
+    },
+    {
+      "step": "3",
+      "title": "Build",
+      "description": "After the design, the AI solution is built by collecting and cleaning data, training and tuning models, integrating and testing system components, and deploying to production."
+    },
+    {
+      "step": "4",
+      "title": "Optimize",
+      "description": "The AI solution is continually refined to improve its performance by monitoring its metrics, refining the algorithms and models, updating the data sources and infrastructure, and integrating feedback from users."
+    }
+  ],
   "projects": [
     {
-      "img": "img/team/04.jpg",
-      "heading": " AI Solution for Dementia Patients",
-      "subHeading": "Artificial Intelligence",
+      "img": "img/portfolio/01-large.jpg",
+      "heading": "AI-Powered Healthcare Assistant",
+      "subHeading": "Healthcare AI",
       "points": [
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication"
+        "Personalized patient monitoring and reminders",
+        "Medication adherence tracking and alerts",
+        "Symptom analysis and preliminary diagnosis",
+        "Integration with healthcare providers"
       ]
     },
     {
-      "img": "img/team/04.jpg",
-      "heading": " AI Solution for Dementia Patients",
-      "subHeading": "Artificial Intelligence",
+      "img": "img/portfolio/02-large.jpg",
+      "heading": "Smart Retail Analytics Platform",
+      "subHeading": "Retail AI",
       "points": [
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication"
+        "Customer behavior analysis",
+        "Inventory optimization using predictive analytics",
+        "Personalized recommendations engine",
+        "Sales forecasting and trend analysis"
       ]
     },
     {
-      "img": "img/team/04.jpg",
-      "heading": " AI Solution for Dementia Patients",
-      "subHeading": "Artificial Intelligence",
+      "img": "img/portfolio/03-large.jpg",
+      "heading": "AI Financial Advisor",
+      "subHeading": "FinTech AI",
       "points": [
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication"
+        "Automated portfolio management",
+        "Fraud detection and prevention",
+        "Personalized investment recommendations",
+        "Real-time market analysis"
       ]
     },
     {
-      "img": "img/team/04.jpg",
-      "heading": " AI Solution for Dementia Patients",
-      "subHeading": "Artificial Intelligence",
+      "img": "img/portfolio/04-large.jpg",
+      "heading": "Smart Manufacturing System",
+      "subHeading": "Industrial AI",
       "points": [
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication"
+        "Predictive maintenance for equipment",
+        "Quality control automation",
+        "Supply chain optimization",
+        "Energy consumption monitoring"
       ]
     },
     {
-      "img": "img/team/04.jpg",
-      "heading": " AI Solution for Dementia Patients",
-      "subHeading": "Artificial Intelligence",
+      "img": "img/portfolio/05-large.jpg",
+      "heading": "Personalized Learning Platform",
+      "subHeading": "EdTech AI",
       "points": [
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication"
+        "Adaptive learning paths",
+        "Automated grading and feedback",
+        "Student performance analytics",
+        "Personalized content recommendations"
       ]
     },
     {
-      "img": "img/team/04.jpg",
-      "heading": " AI Solution for Dementia Patients",
-      "subHeading": "Artificial Intelligence",
+      "img": "img/portfolio/06-large.jpg",
+      "heading": "AI Security System",
+      "subHeading": "Security AI",
       "points": [
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication",
-        "Daily reminders for quizzes and medication"
+        "Real-time threat detection",
+        "Anomaly and intrusion detection",
+        "Automated security monitoring",
+        "Predictive threat analysis"
       ]
     }
   ]
